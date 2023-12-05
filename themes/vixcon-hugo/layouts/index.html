@@ -116,6 +116,12 @@
 <!-- /pricing  -->
 
 <!-- speaker -->
+{{ if $data.homepage.cfs.enable }}
+{{ partial "cfs.html" . }}
+{{ end }}
+<!-- /speaker -->
+
+<!-- speaker -->
 {{ if $data.homepage.speaker.enable }}
 <section class="section-speaker section">
   <div class="container">

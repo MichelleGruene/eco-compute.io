@@ -6,6 +6,12 @@ description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
 ---
 
-## Who're speaking
 
-Already confirmed speakers. More TBA.
+## Call for Speakers
+
+Call for speakers is now open!
+
+Apply
+
+
+## Already confirmed speakers. More TBA

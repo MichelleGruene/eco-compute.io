@@ -87,11 +87,22 @@ pricing:
   # pricing data comes from "pricing.yml" file
 
 ########################## speaker ##########################
-speaker:
+cfs:
   enable : true
   title_outline : "Speakers"
-  title : "Who're speaking"
-  content : "Already confirmed speakers. More TBA."
+  title : "Call for Speakers"
+  content : "Open from 01.12.2023 - 31.01.2024"
+  call_to_action: "Apply now!"
+  link: "call-for-speakers"
+  # speaker content comes from "content/speaker" folder
+
+
+########################## speaker ##########################
+speaker:
+  enable : true
+#  title_outline : "Speakers"
+  title : "Already confirmed speakers. "
+  content : "More TBA."
   # speaker content comes from "content/speaker" folder
 
 ######################### sponsor ############################

@@ -90,9 +90,9 @@ logo = "images/logo-2.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Green Coding Berlin GmbH"
 # email address
-email = "demo@vixcon.com"
+email = "info@eco-compute.io"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -158,7 +158,8 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # footer content
-footer_content = "Let's create digital sustainable solutions"
+footer_content = "Let's create digital sustainable solutions<br>-<br><a href='/impressum'>Impressum</a> <a href='/datenschutz'>Datenschutz</a>"
+
 # copyright
 copyright = "Copyright &copy; 2023 Green Coding Solutions"
 

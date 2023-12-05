@@ -6,4 +6,6 @@ description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, natus.
+EcoComputeCon is a project of Green Coding Berlin GmbH and it's partners.
+
+Feel free to contact us via email or this form.

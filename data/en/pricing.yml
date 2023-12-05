@@ -19,10 +19,12 @@ pricing:
       icon : "tf-ion-android-bulb"
       bg_image : "images/bg/page-header.jpg"
       services:
+        - "Confirmed Reservation"
+        - "Payment in Q1/2024"
         - "Two Days Ticket"
         - "Coffee & Lunch"
         - "Conference Dinner"
-        - "Select 1 Workshop"
+        - "Workshops included"
         - "Sustainable conference baggie"
       button:
         label : "Get now"
@@ -38,7 +40,7 @@ pricing:
         - "Two Days Ticket"
         - "Coffee & Lunch"
         - "Conference Dinner"
-        - "Select 1 Workshop"
+        - "Workshops included"
         - "Sustainable conference baggie"
       button:
         label : "Opens Q1/2024"
@@ -54,9 +56,10 @@ pricing:
         - "Two Days Ticket"
         - "Coffee & Lunch"
         - "Conference Dinner"
-        - "Select 1 Workshop"
+        - "Workshops included"
         - "Sustainable conference baggie"
         - "Discounts for multiple tickets"
+        - "Sponsoring opportunities"
       button:
         label : "Contact Us"
         link : "#"
