@@ -1,0 +1,164 @@
+############################# banner ################################
+banner:
+  enable : true
+  title : "EcoCompute Conference 2024"
+  bg_image: "images/banner/banner-2.jpg"
+  date_time : "April 25 - 26 - Munich, DE"
+  button:
+    enable : "What is it about?"
+    label : "What is it about?"
+    link : "about"
+
+########################## timer #################################
+timer:
+  enable : true
+  title : "**Count the day** <br> until conference start"
+  # set timer
+  year: "2024"
+  month: "04"
+  day: "25"
+  hour: "09"
+
+############################## Event ##############################
+event:
+  enable : true
+  title_outline : "ECOCOMPUTE"
+  title : "Let's make digital sustainable"
+  image_back : "images/about/h1-gallery-img-7.jpg"
+  image_front : "images/about/main-home-img-1.jpg"
+  content : "EcoComputeCon aims to explore and combine new environmentally-conscious hardware architecture to efficient software development patterns and datacenter operations.
+    <br><br>
+    We want to bring all three worlds together to reduce implementation hurldes to get sustainability for digital infrastructures into action.
+    <br><br>
+    We aim to bring together industry leaders, innovators, and experts to discuss and showcase sustainable practices across these technical domains,
+
+"
+  button:
+    enable : true
+    label : "Discover More"
+    link : "about"
+
+######################### Call to action #########################
+cta:
+  enable : true
+  subtitle : "20% Sale offer for early birds"
+  title : "Meet top **experts** <br> & industry heads in a unique **2-days** experience."
+  image : "images/banner/rev-slider-09.png"
+  button:
+    enable : true
+    label : "get ticket"
+    link : "pricing"
+
+############################# Feature ###########################
+feature:
+  enable: true
+  feature_item: 
+    # feature item loop
+    - name : "Sustainable Future"
+      icon : "tf-ion-android-globe"
+      content : "Ultimately, by focusing on sustainable practices in technology, attendees at EcoCompute are contributing to a larger movement towards environmental stewardship.
+      <br><br>
+      This aligns personal and professional endeavors with the crucial goal of ensuring a sustainable future.
+"
+      
+    # feature item loop
+    - name : "Learning"
+      icon : "tf-ion-android-compass"
+      content : "With industry leaders and experts present, attendees can gain insights into the current state and future trends of green technology.
+      <br><br>
+      These insights can be invaluable for understanding market needs, regulatory environments, and emerging opportunities in the field."
+      
+    # feature item loop
+    - name : "Sharing"
+      icon : "tf-ion-android-share"
+      content : "EcoCompute provides a platform for sharing the latest research, innovations, and practices in green technology.
+      <br><br>
+      This includes new findings in energy-efficient computing, sustainable hardware design, and eco-friendly software development.
+"
+
+####################### Schedule #############################
+schedule:
+  enable : true
+  # schedule data comes from "schedule.yml" file
+
+####################### pricing #############################
+pricing:
+  enable : true
+  # pricing data comes from "pricing.yml" file
+
+########################## speaker ##########################
+speaker:
+  enable : true
+  title_outline : "Speakers"
+  title : "Who're speaking"
+  content : "Already confirmed speakers. More TBA."
+  # speaker content comes from "content/speaker" folder
+
+######################### sponsor ############################
+sponsor:
+  enable :  true
+  title_outline : "Sponsors"
+  title : "Amazing Partners & Sponsors"
+  sponsor_group:
+    ############################ sponsor group loop
+    - title : "Amazing Partners & Sponsors"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/HTW.png"
+          link : "https://examplesite.org"
+          
+        # sponcor loop
+        - logo : "images/clients/RS.png"
+          link : "#"
+          
+        # sponcor loop
+        - logo : "images/clients/SDIA.png"
+          link : "https://examplesite.org"
+          
+        # sponcor loop
+        - logo : "images/clients/bluehands.png"
+          link : "#"
+          
+        # sponcor loop
+        - logo : "images/clients/uba.png"
+          link : "https://examplesite.org"
+
+        # sponcor loop
+        - logo : "images/clients/gcb.png"
+          link : "https://www.green-coding.berlin"
+          
+    ############################ sponsor group loop
+   # - title : "Platinum Sponsors"
+   #   sponsor:
+   #     # sponcor loop
+   #     - logo : "images/clients/client-img-6.png"
+   #       link : "https://examplesite.org"
+
+  
+  # call to action in sponsor
+  sponsorship:
+    enable : true
+    title : "Want to be a sponsor ?"
+    #button
+    label : "apply now"
+    link : "sponsors"
+
+################################ venue ########################
+venue:
+  enable : true
+  title : "Venue location"
+  image : "images/bg/cta-bg.jpg"
+  date : "25 - 26 December, 2014"
+  location : "Munich, DE - Exact location TBA in Q1 2024"
+  button: 
+    enable : false
+    label : "View Map location"
+    link : "contact"
+
+############################### Blog ######################################
+blog:
+  enable : false
+  title_outline : "News"
+  title : "Latest News"
+  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  # blog content comes from "content/blog" folder

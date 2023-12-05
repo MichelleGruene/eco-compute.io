@@ -1,0 +1,67 @@
+################################# timer ############################
+timer:
+  enable : true
+  title : "**Count the day** <br>until conference start"
+  content : "Our intensive 2-day conferences will dive deep into topics like hardware, software and datacenter sustainability. We hope you’ll join us!"
+  # timer value comes from "homepage.yml" file
+
+################################# Pricing ##########################
+pricing:
+  enable : true
+  title_outline : "Price"
+  title : "Get your Ticket"
+  content : ""
+  pricing_table:
+    # pricing table loop
+    - title : "Early"
+      style : "1"
+      price : "150 EUR"
+      icon : "tf-ion-android-bulb"
+      bg_image : "images/bg/page-header.jpg"
+      services:
+        - "Two Days Ticket"
+        - "Coffee & Lunch"
+        - "Conference Dinner"
+        - "Select 1 Workshop"
+        - "Sustainable conference baggie"
+      button:
+        label : "Get now"
+        link : "#"
+        
+    # pricing table loop
+    - title : "Regular"
+      style : "2"
+      price : "200 EUR"
+      icon : "tf-ion-play"
+      bg_image : "images/bg/page-header.jpg"
+      services:
+        - "Two Days Ticket"
+        - "Coffee & Lunch"
+        - "Conference Dinner"
+        - "Select 1 Workshop"
+        - "Sustainable conference baggie"
+      button:
+        label : "Opens Q1/2024"
+        link : "#"
+        
+    # pricing table loop
+    - title : "Company"
+      style : "3"
+      price : "Individual"
+      icon : "tf-ion-briefcase"
+      bg_image : "images/bg/page-header.jpg"
+      services:
+        - "Two Days Ticket"
+        - "Coffee & Lunch"
+        - "Conference Dinner"
+        - "Select 1 Workshop"
+        - "Sustainable conference baggie"
+        - "Discounts for multiple tickets"
+      button:
+        label : "Contact Us"
+        link : "#"
+        
+############################## Event ##############################
+event:
+  enable : true
+  # event content comes from "homepage.yml" file

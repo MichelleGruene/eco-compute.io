@@ -1,0 +1,32 @@
+schedule:
+  enable : true
+  title_outline : "schedule"
+  title : "Talks & Workshops"
+  content : "The conference will feature 2 tracks with talks and a workshop track on day two. The schedule is TBA in Q1 2024"
+  schedule_tab:
+    ################# tab itam loop ################
+    - title : "Day 1"
+      date_time : "25 April, 2024 [09:00 - 17:00]"
+      schedule_items:
+        # schedule loop item
+        - time : "---"
+          image : "images/about/big-data.png"
+          content : "
+          ### TBA
+          "
+        - time : "18:00"
+          image : "images/about/big-data.png"
+          content : "
+          ### Conference Dinner & Networking
+          "
+
+    ################# tab itam loop ################
+    - title : "Day 2"
+      date_time : "26 April, 2024 [09:00 - 03:00]"
+      schedule_items:
+        # schedule loop item
+        - time : "---"
+          image : "images/about/big-data.png"
+          content : "
+          ### TBA
+          "
