@@ -13,7 +13,10 @@ Call for speakers is open from **01.12.2023 - 31.01.2024**
 We're excited to invite dynamic and knowledgeable speakers to submit their talks for our upcoming conference. This is your opportunity to inspire, engage, and impart wisdom to a diverse audience eager for new insights and perspectives.
 
 
-
+<form
+  action="https://formspree.io/f/mgejgkbv"
+  method="POST"
+>
 <div class="col-lg-6">
 <div class="contact-form pl-4 mt-5 mt-lg-0">
 <form method="post" action="#">
@@ -60,11 +63,15 @@ We're excited to invite dynamic and knowledgeable speakers to submit their talks
     <textarea rows="6" name="abstract" id="abstract" class="form-control" placeholder="A 500 word abstract"></textarea>
 </div>
 </div>
+<div class="col-lg-12">Supporting files:
+<div class="form-group">
+    <input type="file" name="attachment" accept="image/png, image/jpeg">
+</div>
+</div>
 
 
 <div class="mt-4">
 <button type="submit" id="contact-submit" class="btn btn-hero btn-rounded " value="Send Message">Apply now</button>
 </div>
+
 </form>
-</div>
-</div>

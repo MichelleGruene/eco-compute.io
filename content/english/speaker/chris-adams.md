@@ -1,11 +1,11 @@
 ---
-title: "Arne Tarara"
+title: "Chris Adams"
 date: 2023-12-05T13:51:25+06:00
 draft: false
-description: "Arne Tarara"
+description: "Chris Adams"
 bg_image : "images/bg/cta-bg.jpg"
-image : "images/teams/ArneTR.jpg"
-designation : "CEO & Software Developer"
+image : "images/teams/2020-chris-adams-headshot.jpg"
+designation : "Executive Director"
 type : "speaker"
 # social:
 #   # social site loop

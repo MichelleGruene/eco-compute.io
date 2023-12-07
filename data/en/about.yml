@@ -5,7 +5,7 @@ about:
   title : "Inovation & **Inspiration** Connect People"
   content : "EcoComputeCon aims to address the current issue of energy and resource consumption of digital infrastructures with a new approach.
   <br><br>
-    We want to bring together hardware design, software development, datacenter operations and also IT project planning to understand intersectional barries and implementation hurdles.
+    We want to bring together hardware design, software development, data center operations and also IT project planning to understand intersectional barriers and implementation hurdles.
     <br><br>
     So far environmental concerns have only been addressed in siloed domains or solutions have been suggested that could not be implemented due to privacy or client concerns.
     <br><br>
@@ -27,26 +27,26 @@ feature:
     enable : true
     label : "Get ticket"
     link : "pricing"
-  
+
   feature_item:
     # feature item loop
     - title : "Global Audience"
       icon : "tf-ion-android-globe" # check `static/plugins/themefisher-font/demo.html` for more icon
       bg_color : "#17a2b8"
       content : "Starting a mentoring program might be the closest you'll ever get."
-      
+
     # feature item loop
     - title : "Valuable Insight"
       icon : "tf-ion-android-microphone" # check `static/plugins/themefisher-font/demo.html` for more icon
       bg_color : "" # if color is empty, it will get the default dark color
       content : "Starting a mentoring program might be the closest you'll ever get."
-      
+
     # feature item loop
     - title : "Global Audience"
       icon : "tf-ion-android-globe" # check `static/plugins/themefisher-font/demo.html` for more icon
       bg_color : "#ff4747"
       content : "Starting a mentoring program might be the closest you'll ever get."
-      
+
     # feature item loop
     - title : "Global Audience"
       icon : "tf-ion-android-microphone" # check `static/plugins/themefisher-font/demo.html` for more icon

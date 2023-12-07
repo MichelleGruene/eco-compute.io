@@ -6,7 +6,6 @@ description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
 ---
 
-
 ## Call for Speakers
 
 Call for speakers is now open!

@@ -1,7 +1,7 @@
 ---
 title: "Marta Kemnitz"
 date: 2019-09-10T13:51:25+06:00
-draft: false
+draft: true
 description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/s-1.jpg"
@@ -25,12 +25,12 @@ skill:
   - title : "Course Correction"
     icon : "tf-ion-android-document"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-    
+
   # skill loop
   - title : "Execute the Decision"
     icon : "tf-ion-android-desktop"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-    
+
   # skill loop
   - title : "Planning the Moves"
     icon : "tf-ion-android-bulb"

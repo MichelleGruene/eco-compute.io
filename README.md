@@ -20,4 +20,8 @@ Also, for stuff that is displayed on the landing page, most stuff is done via ht
 
 For all other and global config the https://github.com/EcoComputeCon/eco-compute.io/blob/main/config.toml is used as usual
 
+## Pictures from
 
+- https://www.pexels.com/photo/photo-of-people-sitting-on-chairs-3321789/
+- https://www.pexels.com/photo/women-sitting-on-chairs-inside-a-room-3719037/
+-

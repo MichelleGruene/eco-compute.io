@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "EcoCompute Conference 2024"
-  bg_image: "images/banner/banner-2.jpg"
+  bg_image: "images/banner/banner-2.webp"
   date_time : "April 25 - 26 - Munich, DE"
   button:
     enable : "What is it about?"
@@ -43,7 +43,7 @@ cta:
   enable : true
   subtitle : "20% Sale offer for early birds"
   title : "Meet top **experts** <br> & industry heads in a unique **2-days** experience."
-  image : "images/banner/rev-slider-09.png"
+  image : "images/banner/rev-slider-09.webp"
   button:
     enable : true
     label : "get ticket"
@@ -52,7 +52,7 @@ cta:
 ############################# Feature ###########################
 feature:
   enable: true
-  feature_item: 
+  feature_item:
     # feature item loop
     - name : "Sustainable Future"
       icon : "tf-ion-android-globe"
@@ -60,14 +60,14 @@ feature:
       <br><br>
       This aligns personal and professional endeavors with the crucial goal of ensuring a sustainable future.
 "
-      
+
     # feature item loop
     - name : "Learning"
       icon : "tf-ion-android-compass"
       content : "With industry leaders and experts present, attendees can gain insights into the current state and future trends of green technology.
       <br><br>
       These insights can be invaluable for understanding market needs, regulatory environments, and emerging opportunities in the field."
-      
+
     # feature item loop
     - name : "Sharing"
       icon : "tf-ion-android-share"
@@ -116,28 +116,33 @@ sponsor:
       sponsor:
         # sponcor loop
         - logo : "images/clients/HTW.png"
-          link : "https://examplesite.org"
-          
+          link : "https://www.htw-berlin.de/"
+
         # sponcor loop
         - logo : "images/clients/RS.png"
-          link : "#"
-          
+          link : "https://www.rohde-schwarz.com/de/startseite_48230.html"
+
         # sponcor loop
         - logo : "images/clients/SDIA.png"
-          link : "https://examplesite.org"
-          
+          link : "https://sdialliance.org/"
+
         # sponcor loop
         - logo : "images/clients/bluehands.png"
           link : "#"
-          
+
         # sponcor loop
         - logo : "images/clients/uba.png"
-          link : "https://examplesite.org"
+          link : "https://www.bluehands.de/"
+
+        # sponcor loop
+        - logo : "images/clients/Green-Web-Foundation-logo.webp"
+          link : "https://www.thegreenwebfoundation.org/"
+
 
         # sponcor loop
         - logo : "images/clients/gcb.png"
           link : "https://www.green-coding.berlin"
-          
+
     ############################ sponsor group loop
    # - title : "Platinum Sponsors"
    #   sponsor:
@@ -145,14 +150,14 @@ sponsor:
    #     - logo : "images/clients/client-img-6.png"
    #       link : "https://examplesite.org"
 
-  
+
   # call to action in sponsor
   sponsorship:
     enable : true
     title : "Want to be a sponsor ?"
     #button
     label : "apply now"
-    link : "sponsors"
+    link : "mailto:sponsors@eco-compute.io"
 
 ################################ venue ########################
 venue:
@@ -161,7 +166,7 @@ venue:
   image : "images/bg/cta-bg.jpg"
   date : "25 - 26 December, 2014"
   location : "Munich, DE - Exact location TBA in Q1 2024"
-  button: 
+  button:
     enable : false
     label : "View Map location"
     link : "contact"
