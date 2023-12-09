@@ -28,7 +28,7 @@ pricing:
         - "Sustainable conference baggie"
       button:
         label : "Get now"
-        link : "#"
+        link : "tickets"
 
     # pricing table loop
     - title : "Regular"
@@ -44,7 +44,7 @@ pricing:
         - "Sustainable conference baggie<br><br>"
       button:
         label : "Opens Q1/2024"
-        link : "#"
+        link : ""
 
     # pricing table loop
     - title : "Company"
@@ -62,7 +62,7 @@ pricing:
         - "Sponsoring opportunities"
       button:
         label : "Contact Us"
-        link : "#"
+        link : "mailto:info@eco-compute.io"
 
 ############################## Event ##############################
 event:

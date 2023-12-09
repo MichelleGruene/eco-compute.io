@@ -60,12 +60,12 @@ link = "plugins/search/search.js"
     [[menu.main]]
     parent = "Pages"
     name = "Tickets"
-    URL = "pricing"
+    URL = "tickets"
 
-#    [[menu.main]]
-#    parent = "Pages"
-#    name = "Blog"
-#    URL = "blog"
+    [[menu.main]]
+    parent = "Pages"
+    name = "Code of Conduct"
+    URL = "codeofconduct"
 
     [[menu.main]]
     parent = "Pages"
@@ -107,7 +107,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.navigation_button]
 enable = true
 label = "Get Ticket"
-link = "pricing"
+link = "tickets"
 
 
 # Subscription
@@ -118,8 +118,8 @@ mailchimp_form_action = "" # replace this url with yours
 mailchimp_form_name = "" # replace this code with yours
 
 # google map
-#[params.map]
-#enable = true
+[params.map]
+enable = false
 #gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 #map_latitude = "51.5223477"
 #map_longitude = "-0.1622023"

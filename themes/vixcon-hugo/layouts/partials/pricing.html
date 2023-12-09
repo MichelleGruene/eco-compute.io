@@ -28,10 +28,14 @@
             <li>{{ . | markdownify }}</li>
             {{ end }}
           </ul>
-          {{ with .button }}
-          <a href="{{ .link | safeURL }}" class="btn btn-secondary btn-rounded mt-3 mb-5">{{ .label }}</a>
+
+          {{ if .button.link }}
+          <a href="{{ .button.link | safeURL }}" class="btn btn-secondary btn-rounded mt-3 mb-5">{{ .button.label }}</a>
+          {{ else }}
+          <div class="btn btn-secondary btn-rounded mt-3 mb-5">{{ .button.label }}</div>
           {{ end }}
-        </div>
+
+      </div>
       </div>
       {{ end }}
     </div>

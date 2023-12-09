@@ -8,12 +8,17 @@ bg_image : "images/bg/cta-bg.jpg"
 
 ## Call for Speakers: Share Your Expertise!
 
-Call for speakers is open from **01.12.2023 - 31.01.2024**
+#### Call for speakers is open untill **31.01.2024**
 
 We're excited to invite dynamic and knowledgeable speakers to submit their talks for our upcoming conference. This is your opportunity to inspire, engage, and impart wisdom to a diverse audience eager for new insights and perspectives.
 
+**We accept talks in English and German.**
+
+<div class="alert alert-info d-none" role="alert" id="form-status">asd
+</div>
 
 <form
+  id="speaker-form"
   action="https://formspree.io/f/mgejgkbv"
   method="POST"
 >
@@ -23,13 +28,13 @@ We're excited to invite dynamic and knowledgeable speakers to submit their talks
 <div class="form-row">
 <div class="col-lg-6">
 <div class="form-group">
-<input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
+<input type="text" placeholder="Your Name" class="form-control" name="name" id="name" required>
 </div>
 </div>
 
 <div class="col-lg-6">
 <div class="form-group">
-<input type="email" placeholder="Your Email" class="form-control" name="email" id="email">
+<input type="email" placeholder="Your Email" class="form-control" name="email" id="email" required>
 </div>
 </div>
 
@@ -42,13 +47,13 @@ We're excited to invite dynamic and knowledgeable speakers to submit their talks
 
 <div class="col-lg-12">
 <div class="form-group">
-<input type="text" placeholder="Subject of your talk" class="form-control" name="subject" id="subject">
+<input type="text" placeholder="Title of your talk" class="form-control" name="subject" id="subject" required>
 </div>
 </div>
 
 <div class="col-lg-12">
 <div class="form-group">
-<input type="text" placeholder="Language of your talk" class="form-control" name="language" id="language">
+<input type="text" placeholder="Language of your talk" class="form-control" name="language" id="language" required>
 </div>
 </div>
 
@@ -75,3 +80,38 @@ We're excited to invite dynamic and knowledgeable speakers to submit their talks
 </div>
 
 </form>
+
+<script>
+  var form = document.getElementById("speaker-form");
+
+  async function handleSubmit(event) {
+    event.preventDefault();
+    var status = document.getElementById("form-status");
+    var data = new FormData(event.target);
+    fetch(event.target.action, {
+      method: form.method,
+      body: data,
+      headers: {
+          'Accept': 'application/json'
+      }
+    }).then(response => {
+      status.classList.remove("d-none");
+
+      if (response.ok) {
+        status.innerHTML = "Thanks for handing in a talk. We will be in contact ASAP.";
+        form.reset()
+      } else {
+        response.json().then(data => {
+          if (Object.hasOwn(data, 'errors')) {
+            status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
+          } else {
+            status.innerHTML = "Oops! There was a problem submitting your form"
+          }
+        })
+      }
+    }).catch(error => {
+      status.innerHTML = "Oops! There was a problem submitting your form"
+    });
+  }
+  form.addEventListener("submit", handleSubmit)
+</script>

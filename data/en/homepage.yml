@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "EcoCompute Conference 2024"
   bg_image: "images/banner/banner-2.webp"
-  date_time : "April 25 - 26 - Munich, DE"
+  date_time : "April 25 - 26 in Munich, DE"
   button:
     enable : "What is it about?"
     label : "What is it about?"
@@ -26,13 +26,11 @@ event:
   title : "Let's make digital sustainable"
   image_back : "images/about/h1-gallery-img-7.jpg"
   image_front : "images/about/main-home-img-1.jpg"
-  content : "EcoComputeCon aims to explore and combine new environmentally-conscious hardware architecture to efficient software development patterns and datacenter operations.
+  content : "EcoCompute brings together software developers, hardware designer and data center professionals in order to create a sustainable digital future.
     <br><br>
-    We want to bring all three worlds together to reduce implementation hurldes to get sustainability for digital infrastructures into action.
+    We want to bring all three worlds together to reduce implementation hurdles to get sustainability for digital infrastructures into action.
     <br><br>
-    We aim to bring together industry leaders, innovators, and experts to discuss and showcase sustainable practices across these technical domains,
-
-"
+    We aim to bring together experts, and innovators to discuss and showcase sustainable practices across these technical domains."
   button:
     enable : true
     label : "Discover More"
@@ -47,11 +45,13 @@ cta:
   button:
     enable : true
     label : "get ticket"
-    link : "pricing"
+    link : "tickets"
 
 ############################# Feature ###########################
 feature:
   enable: true
+  title: "Why join?"
+  subtitle: "There are loads of reasons to come!"
   feature_item:
     # feature item loop
     - name : "Sustainable Future"
@@ -91,7 +91,7 @@ cfs:
   enable : true
   title_outline : "Speakers"
   title : "Call for Speakers"
-  content : "Open from 01.12.2023 - 31.01.2024"
+  content : "Open from till 31.01.2024"
   call_to_action: "Apply now!"
   link: "call-for-speakers"
   # speaker content comes from "content/speaker" folder
@@ -112,15 +112,15 @@ sponsor:
   title : "Amazing Partners & Sponsors"
   sponsor_group:
     ############################ sponsor group loop
-    - title : "Amazing Partners & Sponsors"
+    - title : ""
       sponsor:
-        # sponcor loop
-        - logo : "images/clients/HTW.png"
-          link : "https://www.htw-berlin.de/"
-
         # sponcor loop
         - logo : "images/clients/RS.png"
           link : "https://www.rohde-schwarz.com/de/startseite_48230.html"
+
+        # sponcor loop
+        - logo : "images/clients/HTW.png"
+          link : "https://www.htw-berlin.de/"
 
         # sponcor loop
         - logo : "images/clients/SDIA.png"
@@ -164,7 +164,7 @@ venue:
   enable : true
   title : "Venue location"
   image : "images/bg/cta-bg.jpg"
-  date : "25 - 26 December, 2014"
+  date : "April 25 - 26"
   location : "Munich, DE - Exact location TBA in Q1 2024"
   button:
     enable : false

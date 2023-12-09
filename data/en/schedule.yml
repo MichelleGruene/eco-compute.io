@@ -9,13 +9,49 @@ schedule:
       date_time : "25 April, 2024 [09:00 - 17:00]"
       schedule_items:
         # schedule loop item
-        - time : "---"
-          image : "images/about/big-data.png"
+        - time : ""
+          image : "images/teams/hagen.webp"
+          content : "
+          ### Linux Power Management Analysis for Embedded Systems
+          "
+        - time : ""
+          image : "images/teams/anna.webp"
+          content : "
+          ### Reducing electronic waste through sustainability practices
+          "
+        - time : ""
+          image : "images/teams/ArneTR.jpg"
           content : "
           ### TBA
           "
-        - time : "18:00"
-          image : "images/about/big-data.png"
+        - time : ""
+          image : "images/teams/chris.jpg"
+          content : "
+          ### TBA
+          "
+        - time : ""
+          image : "images/teams/didi.webp"
+          content : "
+          ### Make your code greener using AI
+          "
+        - time : ""
+          image : "images/teams/marina.jpg"
+          content : "
+          ### TBA
+          "
+        - time : ""
+          image : "images/teams/max.webp"
+          content : "
+          ### TBA
+          "
+        - time : ""
+          image : "images/teams/verena.webp"
+          content : "
+          ### TBA
+          "
+
+        - time : ""
+          image : "images/logo-2.png"
           content : "
           ### Conference Dinner & Networking
           "

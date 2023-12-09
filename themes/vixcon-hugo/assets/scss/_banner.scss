@@ -59,3 +59,15 @@
     min-height: 515px;
   }
 }
+
+@include large-desktop {
+  .section-banner {
+    background-image: url('/images/banner/banner-2-light.webp');
+  }
+}
+
+@include banner-desktop{
+  .section-banner {
+    background-image: url('/images/banner/banner-2.webp');
+  }
+}
