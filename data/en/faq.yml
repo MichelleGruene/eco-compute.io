@@ -42,9 +42,11 @@ faq:
     - title : "Will the conference venue be accessible?"
       content : "Yes"
 
-    - title : "Will there be childcare"
+    - title : "Will there be childcare?"
       content : "No, but feel free to bring your children"
 
+    - title : "Are animals allowed?"
+      content : "No, except if there is a medial need and you have an official certificate to state this."
 
   ################ support #################
   support:
