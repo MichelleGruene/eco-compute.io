@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://5c98e621.eco-compute-io.pages.dev/"
+baseURL = "https://www.eco-stack.io/"
 title = "EcoCompute Conference 2024"
 theme = "vixcon-hugo"
 # post pagination
@@ -154,6 +154,8 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
+
+[Languages.en.params]
 home = "Home"
 # footer content
 footer_content = "Let's create digital sustainable solutions<br>-<br><a href='/impressum'>Impressum</a> <a href='/datenschutz'>Datenschutz</a>"
