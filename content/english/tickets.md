@@ -64,7 +64,7 @@ We have a limited amount of [Grant Tickets](/grants/) available.
 <div class="form-group">
 <label>
   <input type="checkbox" name="exampleCheckbox" value="terms" required>
-  I hereby agree to the <a href='/impressum/'>Terms and Conditions</a>
+  I hereby agree to the <a href='/agb'>Terms and Conditions</a>
 </label>
 </div>
 </div>
