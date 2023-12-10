@@ -72,7 +72,7 @@
         </div>
       </div>
       <div class="col-lg-5 mt-5 mt-lg-0 d-none d-lg-block">
-        <img src="{{ .image | absURL }}" alt="" class="img-fluid">
+        <img src="{{ .image | absURL }}" alt="" class="img-fluid" loading="lazy">
       </div>
     </div>
   </div>
@@ -156,7 +156,7 @@
       <div class="col-lg-4 col-sm-6">
         <div class="speaker-block mb-5">
           <div class="img-block">
-            <img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid">
+            <img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid" loading="lazy">
             <ul class="list-inline speaker-social">
               {{ range .Params.Social }}
               <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
@@ -190,7 +190,7 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="cta-img">
-          <img src="{{ .image | absURL }}" alt="" class="img-fluid">
+          <img src="{{ .image | absURL }}" alt="" class="img-fluid" loading="lazy">
           <div class="contact-info box-shadow">
             <h5 class="text-uppercase letter-spacing mb-4">{{ .title | markdownify }}</h5>
             <h6 class="text-color mb-3">{{ .date }}</h6>
@@ -233,7 +233,7 @@
       {{ range first 3 (where .Site.RegularPages "Type" "post" )}}
       <div class="col-lg-4 col-md-6">
         <div class="blog-item card border-0 mb-5 mb-lg-0">
-          <img src="{{ .Params.Image | absURL }}" alt="{{ .Title | markdownify }}" class="img-fluid">
+          <img src="{{ .Params.Image | absURL }}" alt="{{ .Title | markdownify }}" class="img-fluid" loading="lazy">
           <div class="p-4">
             <h4 class="mt-2 mb-3"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h4>
             <p>{{ .Summary }}</p>

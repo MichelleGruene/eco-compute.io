@@ -19,9 +19,9 @@
         {{ range .sponsor }}
         <div class="client-item">
           {{ if and (ne .link "") (ne .link "#") }}
-          <a href="{{ .link }}"><img src="{{ .logo | absURL }}" alt="" class="img-fluid"></a>
+          <a href="{{ .link }}"><img src="{{ .logo | absURL }}" alt="" class="img-fluid" loading="lazy"></a>
           {{ else }}
-          <img src="{{ .logo | absURL }}" alt="" class="img-fluid">
+          <img src="{{ .logo | absURL }}" alt="" class="img-fluid" loading="lazy">
           {{ end }}
         </div>
         {{ end }}
