@@ -39,7 +39,7 @@ event:
 ######################### Call to action #########################
 cta:
   enable : true
-  subtitle : "20% Sale offer for early birds"
+  subtitle : ""
   title : "Meet top **experts** <br> & industry heads in a unique **2-days** experience."
   image : "images/banner/rev-slider-09.webp"
   button:
