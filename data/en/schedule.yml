@@ -17,17 +17,17 @@ schedule:
         - time : ""
           image : "images/teams/anna.webp"
           content : "
-          ### Reducing electronic waste through sustainability practices
+          ### The Blue Angel for Software as a sustainability label for software
           "
         - time : ""
           image : "images/teams/ArneTR.jpg"
           content : "
-          ### TBA
+          ### Energy saving techniques for modern cloud and on-prem software
           "
         - time : ""
           image : "images/teams/chris.jpg"
           content : "
-          ### TBA
+          ### Reducing front-end carbon consumption through grid carbon awareness
           "
         - time : ""
           image : "images/teams/didi.webp"
@@ -49,8 +49,12 @@ schedule:
           content : "
           ### TBA
           "
-
         - time : ""
+          image : ""
+          content : "
+          ### More speakers and Track 2 TBA in Q1 2024
+          "
+        - time : "18:00"
           image : "images/logo-2.png"
           content : "
           ### Conference Dinner & Networking
