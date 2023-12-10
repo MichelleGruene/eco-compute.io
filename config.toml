@@ -32,12 +32,12 @@ link = "plugins/jquery/jquery.js"
 link = "plugins/bootstrap/js/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/syotimer/syotimer.min.js"
-[[params.plugins.js]]
-link = "plugins/search/fuse.min.js"
-[[params.plugins.js]]
-link = "plugins/search/mark.js"
-[[params.plugins.js]]
-link = "plugins/search/search.js"
+#[[params.plugins.js]]
+#link = "plugins/search/fuse.min.js"
+#[[params.plugins.js]]
+#link = "plugins/search/mark.js"
+#[[params.plugins.js]]
+#link = "plugins/search/search.js"
 
 ############################## navigation ###############################
 [menu]
