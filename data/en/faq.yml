@@ -31,7 +31,7 @@ faq:
       content : "Tickets may be transferred to another attendee free of charge up to 7 days before the start of the conference."
 
     - title : "Do you offer any group discounts?"
-      content : "No"
+      content : "Companies can inquire for a discount if the want to buy tickets for multiple employees. We do not offer group discounts for multiple individuals though."
 
     - title : "Do we offer any scholarships?"
       content : "No but we have a grant program"
@@ -46,7 +46,7 @@ faq:
       content : "No, but feel free to bring your children"
 
     - title : "Are animals allowed?"
-      content : "No, except if there is a medial need and you have an official certificate to state this."
+      content : "No, except if there is a medical need and you have an official certificate to state this."
 
   ################ support #################
   support:
