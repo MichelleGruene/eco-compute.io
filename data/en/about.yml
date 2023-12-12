@@ -2,14 +2,13 @@
 about:
   enable : true
   title : "Inovation & **Inspiration** Connect People"
-  content : "EcoCompute aims to address the current issue of energy and resource consumption of digital infrastructures with a new approach.
+  content : "EcoCompute aims to address the current issue of energy and resource consumption of digital infrastructures with a new approach:
   <br><br>
-    We want to bring together hardware design, software development, data center operations and also IT project planning to understand intersectional barriers and implementation hurdles.
+    We want to bring together hardware designers, software developers, data center operators and also IT project planners to understand intersectional barriers and implementation hurdles.
     <br><br>
-    So far environmental concerns have only been addressed in siloed domains or solutions have been suggested that could not be implemented due to privacy or client concerns.
+    So far environmental concerns have mostly been addressed in siloed domains or solutions have been suggested that could not be implemented in production scenarios due to privacy or client concerns.
     <br><br>
     EcoCompute aspires to surface new working solutions and advance sustainability in digital technology.
-
 "
 ################## sponsor ###############################
 sponsor:
