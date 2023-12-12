@@ -2,7 +2,7 @@
 title: "Contact Us"
 date: 2019-09-10T13:51:25+06:00
 draft: false
-description: "this is meta description"
+description: "Contact the team of the EcoCompute Conference 2024"
 bg_image : "images/bg/cta-bg.jpg"
 ---
 
