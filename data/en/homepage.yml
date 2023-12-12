@@ -10,7 +10,7 @@ banner:
 tagline:
   enable : true
   subtitle : ""
-  title : "The first engineering conference for **sustainability** in **hardware** & **software**"
+  title : "The first engineering conference on **sustainability** in **hardware** & **software**"
   button:
     enable : true
     label : "Find out more"
