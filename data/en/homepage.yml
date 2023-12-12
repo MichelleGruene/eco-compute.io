@@ -56,6 +56,7 @@ feature:
     # feature item loop
     - name : "Sustainable Future"
       icon : "tf-ion-android-globe"
+      bg_color: "turquoise"
       content : "Ultimately, by focusing on sustainable practices in technology, attendees at EcoCompute are contributing to a larger movement towards environmental stewardship.
       <br><br>
       This aligns personal and professional endeavors with the crucial goal of ensuring a sustainable future.
@@ -64,6 +65,7 @@ feature:
     # feature item loop
     - name : "Learning"
       icon : "tf-ion-android-compass"
+      bg_color: "karmin"
       content : "With industry leaders and experts present, attendees can gain insights into the current state and future trends of green technology.
       <br><br>
       These insights can be invaluable for understanding market needs, regulatory environments, and emerging opportunities in the field."
@@ -71,6 +73,7 @@ feature:
     # feature item loop
     - name : "Sharing"
       icon : "tf-ion-android-share"
+      bg_color: "coal"
       content : "EcoCompute provides a platform for sharing the latest research, innovations, and practices in green technology.
       <br><br>
       This includes new findings in energy-efficient computing, sustainable hardware design, and eco-friendly software development.

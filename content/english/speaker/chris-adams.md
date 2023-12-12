@@ -5,7 +5,7 @@ draft: false
 description: "Chris Adams"
 bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/chris.jpg"
-company: Green Web Foundation
+company: "Green Web Foundation"
 designation : "Executive Director"
 type : "speaker"
 # social:

@@ -5,7 +5,7 @@ draft: false
 description: "Geerd-Dietger Hoffmanns"
 bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/didi.webp"
-company: Green Coding Berlin
+company: "Green Coding Solutions"
 designation : "Head of Engineering"
 type : "speaker"
 # social:

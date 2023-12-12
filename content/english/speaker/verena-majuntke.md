@@ -5,8 +5,8 @@ draft: false
 description: "Verena Majuntke"
 bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/verena.webp"
-company: "HTW"
-designation : "Professor"
+company: "HTW Berlin"
+designation : "Professor - Software Engineering"
 type : "speaker"
 # social:
 #   # social site loop

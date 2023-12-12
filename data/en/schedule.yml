@@ -5,68 +5,163 @@ schedule:
   content : "The conference will feature 2 tracks with talks and a workshop track on day two. The schedule is TBA in Q1 2024"
   schedule_tab:
     ################# tab itam loop ################
-    - title : "Day 1"
+    - title : "Day 1 - Talks"
       date_time : "25 April, 2024 [09:00 - 17:00]"
       schedule_items:
-        # schedule loop item
-        - time : ""
+        - content : "
+          ### Track 1
+          "
+          bg_color: "coal"
+        - time : "09:00 - 10:00"
           image : "images/teams/hagen.webp"
+          speaker_link: "/speaker/hagen-pfeifer"
+          speaker_name: "Hagen Pfeifer"
+          designation: "Chief Software Architect"
+          company: "Rohde & Schwarz"
           content : "
           ### Linux Power Management Analysis for Embedded Systems
           "
-        - time : ""
+        - time : "10:00 - 11:00"
+          image : "images/logo-2.png"
+          speaker_link: "#"
+          speaker_name: "TBA"
+          content : "
+          ### Keynote Panel: Current challenges in bringing energy saving techniques into application
+          "
+        - time : "11:00 - 12:00"
           image : "images/teams/anna.webp"
+          speaker_link: "/speaker/anna-zagorski"
+          speaker_name: "Anna Zagorski"
+          designation: "Research Associate for Green IT"
+          company: "Umweltbundesamt"
           content : "
           ### The Blue Angel for Software as a sustainability label for software
           "
-        - time : ""
+        - time : "12:00 - 13:00"
+          image : "images/logo-2.png"
+          content : "
+          ### Lunch
+          "
+        - time : "13:00 - 14:00"
           image : "images/teams/ArneTR.jpg"
+          speaker_link: "/speaker/arne-tarara"
+          speaker_name: "Arne Tarara"
+          designation: "CEO & Software Developer"
+          company: "Green Coding Solutions"
           content : "
           ### Energy saving techniques for modern cloud and on-prem software
           "
-        - time : ""
+        - time : "14:00 - 15:00"
           image : "images/teams/chris.jpg"
+          speaker_link: "/speaker/chris-adams"
+          speaker_name: "Chris Adams"
+          designation: "Executive Director"
+          company: "The Green Web Foundation"
           content : "
           ### Reducing front-end carbon consumption through grid carbon awareness
           "
         - time : ""
+          image : "images/about/big-data.png"
+          content : "
+          ### More speakers in Track 1 - TBA in Q1 2024
+          "
+        - content : "
+          ### Track 2
+          "
+          bg_color: "coal"
+        - time : "09:00 - 10:00"
           image : "images/teams/didi.webp"
+          speaker_link: "/speaker/didi-hoffmann"
+          speaker_name: "Didi Hoffmann"
+          designation: "Head of Engineering"
+          company: "Green Coding Solutions"
           content : "
           ### Make your code greener using AI
           "
-        - time : ""
+        - time : "TBA"
           image : "images/teams/marina.jpg"
+          speaker_link: "/speaker/marina-koehn"
+          speaker_name: "Marina Köhn"
+          designation: "Researcher"
+          company: "Umweltbundesamt"
           content : "
           ### TBA
           "
-        - time : ""
+        - time : "TBA"
           image : "images/teams/max.webp"
+          speaker_link: "/speaker/max-schulze"
+          speaker_name: "Max Schulze"
+          designation: "Director"
+          company: "SDIA"
           content : "
           ### TBA
           "
-        - time : ""
+        - time : "TBA"
           image : "images/teams/verena.webp"
+          speaker_link: "/speaker/verena-majuntke"
+          speaker_name: "Verena Majuntke"
+          designation: "Professor - Software Engineering"
+          company: "HTW Berlin"
           content : "
           ### TBA
-          "
-        - time : ""
-          image : ""
-          content : "
-          ### More speakers and Track 2 TBA in Q1 2024
           "
         - time : "18:00"
           image : "images/logo-2.png"
           content : "
           ### Conference Dinner & Networking
           "
-
-    ################# tab itam loop ################
-    - title : "Day 2"
-      date_time : "26 April, 2024 [09:00 - 03:00]"
-      schedule_items:
-        # schedule loop item
-        - time : "---"
+        - time : ""
           image : "images/about/big-data.png"
           content : "
-          ### TBA
+          ### More speakers in Track 2 TBA in Q1 2024
+          "
+
+
+    ################# tab itam loop ################
+    - title : "Day 2 - Talks & Workshops"
+      date_time : "26 April, 2024 [09:00 - 13:00]"
+      schedule_items:
+        # schedule loop item
+        - time : "09:00 - 11:00"
+          image : "images/about/big-data.png"
+          content : "
+          ### Talks - TBA
+          "
+        # schedule loop item
+        - time : "11:00 - 12:00"
+          image : "images/logo-2.png"
+          content : "
+          ### Lunch
+          "
+        - time : "12:00 - 15:00"
+          image : "images/teams/ArneTR.jpg"
+          speaker_link: "/speaker/arne-tarara"
+          speaker_name: "Arne Tarara"
+          designation: "CEO & Software Developer"
+          company: "Green Coding Solutions"
+          content : "
+          ### Automated certifications for Green Software with the Blue Angel for Software
+          "
+        - time : "12:00 - 15:00"
+          image : "images/teams/didi.webp"
+          speaker_link: "/speaker/didi-hoffmann"
+          speaker_name: "Didi Hoffmann"
+          designation: "Head of Engineering"
+          company: "Green Coding Solutions"
+          content : "
+          ### Performance Engineering and Green Coding techniques for modern containerized applications
+          "
+        - time : "12:00 - 15:00"
+          image : "images/teams/hagen.webp"
+          speaker_link: "/speaker/hagen-pfeifer"
+          speaker_name: "Hagen Pfeifer"
+          designation: "Chief Software Architect"
+          company: "Rohde & Schwarz"
+          content : "
+          ### Reducing power consumption through OS level settings in embedded systems
+          "
+        - time : "12:00 - 15:00"
+          image : "images/about/big-data.png"
+          content : "
+          ### More Workshops TBA
           "

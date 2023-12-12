@@ -32,17 +32,17 @@ feature:
     # feature item loop
     - title : "Sustainable Future"
       icon : "tf-ion-android-globe" # check `static/plugins/themefisher-font/demo.html` for more icon
-      bg_color : "#17a2b8"
+      bg_color : "turquoise"
       content : "By focusing on sustainable practices in technology, attendees at EcoCompute are contributing to a larger movement towards environmental stewardship."
 
     # feature item loop
     - title : "Learning"
       icon : "tf-ion-android-compass" # check `static/plugins/themefisher-font/demo.html` for more icon
-      bg_color : "" # if color is empty, it will get the default dark color
+      bg_color : "karmin"
       content : "With industry leaders and experts present, attendees can gain insights into the current state and future trends of green technology."
 
     # feature item loop
     - title : "Sharing"
       icon : "tf-ion-android-share" # check `static/plugins/themefisher-font/demo.html` for more icon
-      bg_color : "#ff4747"
+      bg_color : "coal"
       content : "EcoCompute provides a platform for sharing the latest research, innovations, and practices in green technology."

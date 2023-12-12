@@ -6,7 +6,7 @@ description: "Marina Köhn"
 bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/marina.jpg"
 company: "Umweltbundesamt"
-designation : "Wissenschaftlerin"
+designation : "Researcher"
 type : "speaker"
 # social:
 #   # social site loop

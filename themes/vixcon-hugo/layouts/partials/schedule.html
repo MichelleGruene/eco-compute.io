@@ -38,12 +38,16 @@
           <div class="tab-pane fade {{ if eq $index 0 }} show active {{ end }} " id="scheduleTab{{$.Scratch.Get `counter`}}" role="tabpanel">
             <ul class="mt-5 time-table pl-0 list-unstyled">
               {{ range .schedule_items }}
-              <li class="d-md-flex align-items-center justify-content-between bg-light p-4 mb-3">
+              <li class="d-md-flex align-items-center justify-content-between p-4 mb-3 {{if .bg_color}}{{.bg_color}}{{else}}bg-light{{end}}">
                 {{ with .time }}
                 <h4 class="time text-color">{{ . }}</h4>
                 {{ end }}
                 <div class="content">
                   {{ .content | markdownify }}
+                  <div class="speaker-info">
+                    <div class="mb-0 mt-3"><a href="{{ .speaker_link }}">{{ .speaker_name }}</a></div>
+                    <p>{{ with .designation }}{{ . }}{{ end }}{{ with .company }} | {{ . }}{{ end }}</p>
+                  </div>
                 </div>
                 {{ with .image }}
                 <div class="content-img text-lg-right">

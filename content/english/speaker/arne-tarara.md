@@ -5,7 +5,7 @@ draft: false
 description: "Arne Tarara"
 bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/ArneTR.jpg"
-company: Green Coding Berlin
+company: "Green Coding Solutions"
 designation : "CEO & Software Developer"
 type : "speaker"
 # social:

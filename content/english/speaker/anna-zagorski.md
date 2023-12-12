@@ -5,7 +5,7 @@ draft: false
 description: "Anna Zagorski"
 bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/anna.webp"
-company: Umweltbundesamt
+company: "Umweltbundesamt"
 designation : "Research Associate for Green IT"
 type : "speaker"
 # social:
