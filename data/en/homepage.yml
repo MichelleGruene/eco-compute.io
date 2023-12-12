@@ -5,13 +5,12 @@ banner:
   bg_image: "images/banner/banner-2.webp"
   date_time : "April 25 - 26"
   location : "Munich, Germany"
-  tag_line : "The first conference for sustainability engineering und hardware & software"
 
 ############################# tagline ################################
 tagline:
   enable : true
   subtitle : ""
-  title : "The first conference for **sustainability** engineering in **hardware** & **software**"
+  title : "The first engineering conference for **sustainability** in **hardware** & **software**"
   button:
     enable : true
     label : "Find out more"
