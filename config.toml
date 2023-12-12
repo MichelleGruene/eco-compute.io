@@ -48,39 +48,41 @@ link = "plugins/syotimer/syotimer.min.js"
   weight = 2
 
   [[menu.main]]
-  name = "Speakers"
-  URL = "speaker"
+  name = "Schedule"
+  URL = "schedule"
   weight = 3
 
   [[menu.main]]
+  name = "Speakers"
+  URL = "speakers"
   weight = 4
-  name = "Pages"
+
+
+  [[menu.main]]
+  weight = 5
+  name = "More"
   hasChildren = true
 
+
     [[menu.main]]
-    parent = "Pages"
+    parent = "More"
     name = "Tickets"
     URL = "tickets"
 
     [[menu.main]]
-    parent = "Pages"
+    parent = "More"
     name = "Code of Conduct"
     URL = "codeofconduct"
 
     [[menu.main]]
-    parent = "Pages"
-    name = "Schedule"
-    URL = "schedule"
-
-    [[menu.main]]
-    parent = "Pages"
+    parent = "More"
     name = "FAQ"
     URL = "faq"
 
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 5
+  weight = 6
 
 #################### default parameters ################################
 [params]
@@ -106,7 +108,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Get Ticket"
+label = "Get your Ticket"
 link = "tickets"
 
 

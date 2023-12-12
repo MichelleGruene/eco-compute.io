@@ -151,13 +151,13 @@ h3#track-1, h3#track-2 {
     color: #fff !important;
 }
 
-#first-section {
-    margin-bottom: 50px;
-}
-
 
 @media(max-width:991px){
     .section-schedule .content-img {
         display:none;
     }
+}
+
+.primary-color {
+    color: $primary-color;
 }

@@ -3,16 +3,25 @@ banner:
   enable : true
   title : "EcoCompute Conference 2024"
   bg_image: "images/banner/banner-2.webp"
-  date_time : "April 25 - 26 in Munich, DE"
+  date_time : "April 25 - 26"
+  location : "Munich, Germany"
+  tag_line : "The first conference for sustainability engineering und hardware & software"
+
+############################# tagline ################################
+tagline:
+  enable : true
+  subtitle : ""
+  title : "The first conference for **sustainability** engineering in **hardware** & **software**"
   button:
-    enable : "What is it about?"
-    label : "What is it about?"
+    enable : true
+    label : "Find out more"
     link : "about"
+
 
 ########################## timer #################################
 timer:
   enable : true
-  title : "**Count the day** <br> until conference start"
+  title : "**Count the days** <br> until conference start"
   # set timer
   year: "2024"
   month: "04"
@@ -44,7 +53,7 @@ cta:
   image : "images/banner/rev-slider-09.webp"
   button:
     enable : true
-    label : "get ticket"
+    label : "get your ticket"
     link : "tickets"
 
 ############################# Feature ###########################
@@ -115,12 +124,14 @@ sponsor:
   title : "Amazing Partners & Sponsors"
   sponsor_group:
     ############################ sponsor group loop
-    - title : ""
+    - title : "Gold Sponsors"
       sponsor:
         # sponcor loop
         - logo : "images/clients/RS.png"
-          link : "https://www.rohde-schwarz.com/de/startseite_48230.html"
+          link : "https://www.rohde-schwarz.com"
 
+    - title : "Organising Partners"
+      sponsor:
         # sponcor loop
         - logo : "images/clients/HTW.png"
           link : "https://www.htw-berlin.de/"
@@ -140,7 +151,6 @@ sponsor:
         # sponcor loop
         - logo : "images/clients/Green-Web-Foundation-logo.webp"
           link : "https://www.thegreenwebfoundation.org/"
-
 
         # sponcor loop
         - logo : "images/clients/gcb.png"
@@ -168,7 +178,7 @@ venue:
   title : "Venue location"
   image : "images/bg/cta-bg.jpg"
   date : "April 25 - 26"
-  location : "Munich, DE - Exact location TBA in Q1 2024"
+  location : "Munich, Germany - Exact location TBA in Q1 2024"
   button:
     enable : false
     label : "View Map location"
