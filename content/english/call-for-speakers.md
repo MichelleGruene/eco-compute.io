@@ -2,7 +2,7 @@
 title: "Call for Speakers"
 date: 2019-09-10T13:51:25+06:00
 draft: false
-description: "this is meta description"
+description: "Call for Speakers for the EcoCompute Conference 2024 in Munich, Germany"
 bg_image : "images/bg/cta-bg.jpg"
 ---
 
@@ -11,6 +11,16 @@ bg_image : "images/bg/cta-bg.jpg"
 #### Call for speakers is open until **31.01.2024**
 
 We're excited to invite dynamic and knowledgeable speakers to submit their talks for our upcoming conference. This is your opportunity to inspire, engage, and impart wisdom to a diverse audience eager for new insights and perspectives.
+
+Under our [about](/about) page you find some details what the conference will focus on. In short: We are looking for talks that focus on sustainablity engineering solutions in hardware and software to reduce resource consumption of digital infrastructure.
+
+Here are some examples of topics that we deem matching to the conference topic, but please also suggest talks that broaden the scope and address sustainability topics that are not listed here:
+
+- Case studies with customers and/or companies around implementing sustainability in hardware products / software products / datacenters
+- Academic research projects or industry R&D on sustainability in hardware products / software products / datacenters
+- Identification of problems why sustainability features/techniques are not used in tech companies and the cloud
+- Identification of problems why sustainabilty / efficiency features in hardware are not taken up by software
+- New hardware / hardware-features / software / tools to save resources (energy, CO2, extended hardware refresh cycles)
 
 **We accept talks in English and German.**
 
