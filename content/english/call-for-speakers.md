@@ -8,7 +8,7 @@ bg_image : "images/bg/cta-bg.jpg"
 
 ## Call for Speakers: Share Your Expertise!
 
-#### Call for speakers is open untill **31.01.2024**
+#### Call for speakers is open until **31.01.2024**
 
 We're excited to invite dynamic and knowledgeable speakers to submit their talks for our upcoming conference. This is your opportunity to inspire, engage, and impart wisdom to a diverse audience eager for new insights and perspectives.
 

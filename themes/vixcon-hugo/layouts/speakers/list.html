@@ -1,9 +1,10 @@
 {{ define "main" }}
 
+{{ partial "cfs.html" . }}
+
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 {{ if $data.homepage.speaker.enable }}
-<br>
 <section id="speakers" class="section-speaker">
   <div class="container">
     {{ with $data.homepage.speaker }}
