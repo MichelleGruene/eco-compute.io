@@ -103,7 +103,7 @@ cfs:
   enable : true
   title_outline : "Speakers"
   title : "Call for Speakers"
-  content : "Open from till 31.01.2024"
+  content : "Open until 31.01.2024"
   call_to_action: "Apply now!"
   link: "call-for-speakers"
   # speaker content comes from "content/speaker" folder
