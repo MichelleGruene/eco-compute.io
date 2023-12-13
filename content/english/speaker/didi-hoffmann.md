@@ -2,7 +2,7 @@
 title: "Geerd-Dietger Hoffmann"
 date: 2023-12-05T13:51:25+06:00
 draft: false
-description: "Geerd-Dietger Hoffmanns"
+description: "Geerd-Dietger Hoffmann"
 bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/didi.webp"
 company: "Green Coding Solutions"
@@ -31,4 +31,10 @@ type : "speaker"
 #    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit #turpis, a porttitor tellus sollicitudin at."
 ---
 
-To come
+Didi Hoffmann is the Head of Engieering at Green Coding Solutions.
+
+Having had many roles as CTO and CEO in companies like dbook, CigarCities, eHealth Africa and more with also having
+his career path bringing him to stops at IBM and CERN.
+
+He now works mostly in power / energy engineering and green software development with a focus on AI supported 
+optimization and pattern detection.
