@@ -57,7 +57,7 @@ Here are some examples of topics that we deem matching to the conference topic, 
 
 <div class="col-lg-12">
 <div class="form-group">
-<input type="text" placeholder="Title of your talk" class="form-control" name="subject" id="subject" required>
+<input type="text" placeholder="Title of your talk" class="form-control" name="title" id="title" required>
 </div>
 </div>
 
