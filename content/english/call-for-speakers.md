@@ -69,6 +69,18 @@ Here are some examples of topics that we deem matching to the conference topic, 
 
 <div class="col-lg-12">
 <div class="form-group">
+
+<select class=" form-control"  value="" id="length" name="length">
+    <option value="30">20 Min. + Q&A (30 Min. total)</option>
+    <option value="45" selected>30 Min. + Q&A (45 Min. total)</option>
+    <option value="60">50 Min. + Q&A (60 Min. total)</option>
+</select>
+</div>
+</div>
+
+
+<div class="col-lg-12">
+<div class="form-group">
     <textarea rows="6" placeholder="Your bio" class="form-control" name="bio" id="bio"></textarea>
 </div>
 </div>
