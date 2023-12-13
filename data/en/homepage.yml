@@ -61,13 +61,13 @@ feature:
   title: "Why join?"
   subtitle: "There are loads of reasons to come!"
   feature_item:
-    # feature item loop
-    - name : "Sustainable Future"
-      icon : "tf-ion-android-globe"
-      bg_color: "turquoise"
-      content : "Ultimately, by focusing on sustainable practices in technology, attendees at EcoCompute are contributing to a larger movement towards environmental stewardship.
+
+    - name : "Sharing"
+      icon : "tf-ion-android-share"
+      bg_color: "coal"
+      content : "EcoCompute provides a platform for sharing the latest research, innovations, and practices in green technology.
       <br><br>
-      This aligns personal and professional endeavors with the crucial goal of ensuring a sustainable future.
+      This includes new findings in energy-efficient computing, sustainable hardware design, and eco-friendly software development.
 "
 
     # feature item loop
@@ -78,14 +78,14 @@ feature:
       <br><br>
       These insights can be invaluable for understanding market needs, regulatory environments, and emerging opportunities in the field."
 
-    # feature item loop
-    - name : "Sharing"
-      icon : "tf-ion-android-share"
-      bg_color: "coal"
-      content : "EcoCompute provides a platform for sharing the latest research, innovations, and practices in green technology.
+    - name : "Sustainable Future"
+      icon : "tf-ion-android-globe"
+      bg_color: "turquoise"
+      content : "The UN SDGs define sustainability as the goal to not compromise the opportunities of upcoming generations
       <br><br>
-      This includes new findings in energy-efficient computing, sustainable hardware design, and eco-friendly software development.
+      We as technologists that create hardware and software want to create a conference with the aim to present solutions to achieve this goal.
 "
+
 
 ####################### Schedule #############################
 schedule:
