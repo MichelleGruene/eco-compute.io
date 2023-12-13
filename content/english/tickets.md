@@ -54,8 +54,8 @@ We have a limited amount of [Grant Tickets](/grants/) available.
 <div class="col-lg-12">
 <div class="form-group">
 <label>
-  <input type="checkbox" name="exampleCheckbox" value="photos">
-  I hereby agree that I accept videos and pictures of my person can be made and distributed
+  <input type="checkbox" name="photos" value="photos">
+  I hereby agree that I accept videos and pictures of my person can be made according to our <a href="/agb">terms & privacy policy</a>
 </label>
 </div>
 </div>
@@ -63,7 +63,7 @@ We have a limited amount of [Grant Tickets](/grants/) available.
 <div class="col-lg-12">
 <div class="form-group">
 <label>
-  <input type="checkbox" name="exampleCheckbox" value="terms" required>
+  <input type="checkbox" name="terms" value="terms" required>
   I hereby agree to the <a href='/agb'>Terms and Conditions</a>
 </label>
 </div>
@@ -72,7 +72,7 @@ We have a limited amount of [Grant Tickets](/grants/) available.
 <div class="col-lg-12">
 <div class="form-group">
 <label>
-  <input type="checkbox" name="exampleCheckbox" value="ticketing" required>
+  <input type="checkbox" name="ticketing" value="ticketing" required>
   I hereby agree that the Green Coding Berlin GmbH can use my Data for ticketing purposes.
 </label>
 </div>
