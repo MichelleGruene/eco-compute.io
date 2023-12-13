@@ -54,7 +54,7 @@ We have a limited amount of [Grant Tickets](/grants/) available.
 <div class="col-lg-12">
 <div class="form-group">
 <label>
-  <input type="checkbox" name="photos" value="photos">
+  <input type="checkbox" name="photos" value="photos" required>
   I hereby agree that I accept videos and pictures of my person can be made according to our <a href="/agb">terms & privacy policy</a>
 </label>
 </div>
