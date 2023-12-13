@@ -47,7 +47,7 @@ We have a limited amount of [Grant Tickets](/grants/) available.
 
 <div class="col-lg-12">
 <div class="form-group">
-<input type="text" placeholder="Billing address" class="form-control" name="address" id="address" required>
+<input type="text" placeholder="(optional) Billing address" class="form-control" name="address" id="address">
 </div>
 </div>
 
