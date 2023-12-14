@@ -123,35 +123,31 @@ sponsor:
   title : "Amazing Partners & Sponsors"
   sponsor_group:
     ############################ sponsor group loop
-    - title : "Gold Sponsors"
-      sponsor:
-        # sponcor loop
-        - logo : "images/clients/RS.png"
-          link : "https://www.rohde-schwarz.com"
+#    - title : "Gold Sponsors"
+#      sponsor:
+#        - logo : "images/clients/RS.png"
+#          link : "https://www.rohde-schwarz.com"
 
     - title : "Organising Partners"
       sponsor:
-        # sponcor loop
+        - logo : "images/clients/RS.png"
+          link : "https://www.rohde-schwarz.com"
+
         - logo : "images/clients/HTW.png"
           link : "https://www.htw-berlin.de/"
 
-        # sponcor loop
         - logo : "images/clients/SDIA.png"
           link : "https://sdialliance.org/"
 
-        # sponcor loop
         - logo : "images/clients/bluehands.png"
           link : "#"
 
-        # sponcor loop
         - logo : "images/clients/uba.png"
           link : "https://www.bluehands.de/"
 
-        # sponcor loop
         - logo : "images/clients/Green-Web-Foundation-logo.webp"
           link : "https://www.thegreenwebfoundation.org/"
 
-        # sponcor loop
         - logo : "images/clients/gcb.png"
           link : "https://www.green-coding.berlin"
 
