@@ -89,7 +89,7 @@ link = "plugins/syotimer/syotimer.min.js"
 logo = "images/logo-2.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "EcoCompute is the first engineering conference on sustainability in hardware & software"
 author = "Green Coding Berlin GmbH"
 # email address
 email = "info@eco-compute.io"
