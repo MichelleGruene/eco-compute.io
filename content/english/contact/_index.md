@@ -6,6 +6,6 @@ description: "Contact the team of the EcoCompute Conference 2024"
 bg_image : "images/bg/cta-bg.jpg"
 ---
 
-EcoCompute is a project of Green Coding Berlin GmbH and it's partners.
+EcoCompute is a project of Green Coding Solutions GmbH and it's partners.
 
 Feel free to contact us via email or this form.

@@ -7,12 +7,12 @@ bg_image : "images/bg/cta-bg.jpg"
 ---
 
 ## Büro
-Green Coding Berlin GmbH\
+Green Coding Solutions GmbH\
 Rudi-Dutschke-Straße 23 c/o Betahaus\
 D-10969 Berlin
 
 ## Rechtlicher Firmensitz
-Green Coding Berlin GmbH\
+Green Coding Solutions GmbH\
 Jablonskistr. 24\
 D-10405 Berlin
 

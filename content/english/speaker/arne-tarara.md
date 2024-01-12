@@ -5,7 +5,7 @@ draft: false
 description: "Arne Tarara"
 bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/ArneTR.jpg"
-company: "Green Coding Solutions"
+company: "Green Coding Solutions GmbH"
 designation : "CEO & Software Developer"
 type : "speaker"
 # social:
@@ -31,6 +31,6 @@ type : "speaker"
 #    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit #turpis, a porttitor tellus sollicitudin at."
 ---
 
-Arne is the CEO for the the Berlin based Green Software company Green Coding Berlin GmbH.
+Arne is the CEO for the the Berlin based Green Software company Green Coding Solutions GmbH.
 Professional software engineer for 16+ years with roles in CTO and CEO positions he is now a regular speaker at events and conferences for Green Software in Germany as well as the lead engineer of advanced software energy measurements tools like the Green Metrics Tool, Eco-CI and PowerHog with regular releases and contributions to open source tools and articles about research in the domain of sustainable software engineering.
 

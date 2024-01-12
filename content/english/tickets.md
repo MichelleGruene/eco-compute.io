@@ -73,7 +73,7 @@ We have a limited amount of [Grant Tickets](/grants/) available.
 <div class="form-group">
 <label>
   <input type="checkbox" name="ticketing" value="ticketing" required>
-  I hereby agree that the Green Coding Berlin GmbH can use my Data for ticketing purposes.
+  I hereby agree that the Green Coding Solutions GmbH can use my Data for ticketing purposes.
 </label>
 </div>
 </div>
