@@ -10,7 +10,7 @@ bg_image : "images/bg/cta-bg.webp"
 ### AGB für Teilnehmer der Konferenzen und Workshops der Green Coding Solutions GmbH
 
 #### § 1 Allgemeines
-Allen Rechtsgeschäften der Green Coding Solutions GmbH im Rahmen der Veranstaltungen liegen diese Allgemeinen Geschäftsbedingungen zugrunde. Mit der Anmeldung erkennen Sie diese Allgemeinen Teilnahmebedingungen an.
+Allen Rechtsgeschäften der Green Coding Solutions GmbH im Rahmen dieser Veranstaltungen liegen diese Allgemeinen Geschäftsbedingungen zugrunde. Mit der Anmeldung erkennen Sie diese Allgemeinen Teilnahmebedingungen an.
 
 #### § 2 Anmeldung
 Die Anmeldungen zu den Veranstaltungen erfolgt über die Anmeldemöglichkeiten im Internet. Ebenfalls zulässig ist eine Anmeldung per Brief oder E-Mail, sofern alle erforderlichen Daten angegeben werden.
