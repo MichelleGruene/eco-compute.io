@@ -31,4 +31,8 @@ type : "speaker"
 #    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit #turpis, a porttitor tellus sollicitudin at."
 ---
 
-To come
+Hagen Paul Pfeifer works at Rohde & Schwarz as Chief Software Architect forthe Technology Systems division.  
+
+His core responsibilities include the creation of robust digital solutions that not only function effectively but also drive innovation and progress in the tech world - under the many constraints of economics, maintainability or sustainability. 
+In addition, he is responsible for strategic issues relating to software and standardisation aspects. 
+He was involved in the standardization of various Internet protocols such as TCP, BGPv4 or IPv6 at the IETF and is an active Linux kernel contributor.
