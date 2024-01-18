@@ -122,7 +122,7 @@ Here are some examples of topics that we deem matching to the conference topic, 
       status.classList.remove("d-none");
 
       if (response.ok) {
-        status.innerHTML = "Thanks for handing in a talk. We will be in contact ASAP.";
+        status.innerHTML = "Thanks for handing in a talk. We will evaluate all proposals by start of Feb. 2024";
         form.reset()
       } else {
         response.json().then(data => {
