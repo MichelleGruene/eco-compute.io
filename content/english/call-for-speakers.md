@@ -23,7 +23,6 @@ Here are some examples of topics that we deem matching to the conference topic, 
 - Identification of problems why sustainability features/techniques are not used in tech companies and the cloud
 - Identification of problems why sustainabilty / efficiency features in hardware are not taken up by software
 - New hardware / hardware-features / software / tools to save resources (energy, CO2, extended hardware refresh cycles)
-- test
 
 **We accept talks in English and German.**
 
